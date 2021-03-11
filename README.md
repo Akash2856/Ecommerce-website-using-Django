@@ -21,7 +21,9 @@ Now you can run the project with this command
 [login page](https://drive.google.com/file/d/1l8sFGS1oEIbcCjjdyWT8cebZcSNmB7C2/view?usp=sharing)
 
 # Project Summary
-[Main Page](https://drive.google.com/file/d/1ksA72rgIl0kGOQmTFcvEiORpxhc8-i06/view?usp=sharing)
+[product Page1](https://drive.google.com/file/d/1ksA72rgIl0kGOQmTFcvEiORpxhc8-i06/view?usp=sharing)
+>
+[Product page2](https://drive.google.com/file/d/1y7q_8KHhZmFGSGtiTAtqzb3Xh0_0BPRp/view?usp=sharing)
 >
 # Checkout 
 [Checkout](https://drive.google.com/file/d/1wezTI5Rwgw3hrsDQh5BkVaVXBtG8x0Tf/view?usp=sharing)
