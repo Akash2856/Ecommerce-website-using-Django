@@ -19,6 +19,7 @@ Now you can run the project with this command
 >python manage.py runserver
 >
 [login page](https://drive.google.com/file/d/1l8sFGS1oEIbcCjjdyWT8cebZcSNmB7C2/view?usp=sharing)
+>
 [Registration Page](https://drive.google.com/file/d/1l4MIkXzhA5p2dhsbtJucnXCEhZUW0xwA/view?usp=sharing)
 >
 # Project Summary
