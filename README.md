@@ -22,6 +22,9 @@ Now you can run the project with this command
 >
 [Registration Page](https://drive.google.com/file/d/1l4MIkXzhA5p2dhsbtJucnXCEhZUW0xwA/view?usp=sharing)
 >
+# Documentation
+Check out the documentation on the [Documentation](https://docs.djangoproject.com/en/3.1/)
+>
 # Project Summary
 [product Page1](https://drive.google.com/file/d/1ksA72rgIl0kGOQmTFcvEiORpxhc8-i06/view?usp=sharing)
 >
